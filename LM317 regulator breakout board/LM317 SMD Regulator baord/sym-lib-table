@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "LM317-SMD-Regulator-baord-rescue")(type "Legacy")(uri "${KIPRJMOD}/LM317 SMD Regulator baord-rescue.lib")(options "")(descr ""))
+)
